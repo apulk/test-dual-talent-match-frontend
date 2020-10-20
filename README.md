@@ -1,3 +1,14 @@
+Admin crediantials: 
+email: admin@admin.com
+password: 123456
+
+and Any student is created with email that student's crediantials will be his/her email and pass by default 123456 respectively.
+for example:
+one student is created by admin entering his email as 'apul@gmail.com' so the login crediantials of student is as follows
+email: apul@gmail.com
+password: 123456 ( by default)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
